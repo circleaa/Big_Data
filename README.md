@@ -28,7 +28,7 @@
 ## Final Deliverables
 系統執行完畢後，會自動產出涵蓋所有年份與指標的 4 份 Master CSV 檔案：
 
-[output](./output)
+[output_example](./output/mlb_team_hitting_2003_2023.csv)
 
 * `mlb_player_hitting_2003_2023.csv`
 * `mlb_player_pitching_2003_2023.csv`
